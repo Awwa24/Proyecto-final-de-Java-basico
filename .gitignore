@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+*.iml
+
+### Java ###
+*.class
+
+### Sistema operativo ###
+Thumbs.db
+.DS_Store
